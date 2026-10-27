@@ -1,0 +1,45 @@
+[
+ {
+  "slug": "planner",
+  "name": "The Living Palette Planner",
+  "type": "planner",
+  "status": "concept",
+  "price": null,
+  "purchase_url": null,
+  "description": "Calendars, intentions, habits, reflections and seasonal rhythms.",
+  "images": [
+   "assets/products/planner-cover.webp",
+   "assets/products/planner-inside.webp"
+  ],
+  "note": "Concept render. Specifications, pricing and availability are not set."
+ },
+ {
+  "slug": "journal",
+  "name": "The Living Palette Journal",
+  "type": "journal",
+  "status": "concept",
+  "price": null,
+  "purchase_url": null,
+  "description": "Blank pages, guided prompts, field notes, sketches and ideas.",
+  "images": [
+   "assets/products/journal-cover.webp",
+   "assets/products/journal-inside.webp"
+  ],
+  "note": "Concept render. Specifications, pricing and availability are not set."
+ },
+ {
+  "slug": "ocean-oracle",
+  "name": "Ocean Oracle",
+  "type": "oracle",
+  "status": "concept",
+  "price": null,
+  "purchase_url": null,
+  "description": "Oracle deck and guidebook for ecological symbolism and reflection. Card count not yet set.",
+  "images": [
+   "assets/products/oracle-cover.webp",
+   "assets/products/oracle-cards.webp",
+   "assets/products/oracle-guidebook.webp"
+  ],
+  "note": "Concept render. Specifications, pricing and availability are not set."
+ }
+]

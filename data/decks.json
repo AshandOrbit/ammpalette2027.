@@ -1,0 +1,44 @@
+[
+ {
+  "id": "estuary",
+  "world": "estuary",
+  "name": "Estuary Tarot",
+  "status": "concept",
+  "target_cards": 78
+ },
+ {
+  "id": "sylvan",
+  "world": "forest",
+  "name": "Sylvan Tarot",
+  "status": "concept",
+  "target_cards": 78
+ },
+ {
+  "id": "ocean",
+  "world": "ocean",
+  "name": "Oceanic Tarot",
+  "status": "concept",
+  "target_cards": 78
+ },
+ {
+  "id": "abyss",
+  "world": "abyss",
+  "name": "Abyss Tarot",
+  "status": "concept",
+  "target_cards": 78
+ },
+ {
+  "id": "alpine",
+  "world": "mountain",
+  "name": "Alpine Tarot",
+  "status": "concept",
+  "target_cards": 78
+ },
+ {
+  "id": "arctic",
+  "world": "arctic",
+  "name": "Arctic Tarot",
+  "status": "concept",
+  "target_cards": 78
+ }
+]

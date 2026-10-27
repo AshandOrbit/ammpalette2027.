@@ -1,0 +1,74 @@
+[
+ {
+  "slug": "estuary",
+  "name": "Estuary",
+  "palette": "Black water, oxblood, silver sage, antique gold",
+  "focus": "Saltmarsh, tides, adaptation",
+  "hero": "assets/decks/estuary/cards/estuary-03-empress.webp",
+  "signature": "Salina, Empress",
+  "note": "Estuary Tarot is the first full tarot project.",
+  "accent": "#7a2f3a",
+  "deck": "estuary",
+  "status": "concept"
+ },
+ {
+  "slug": "forest",
+  "name": "Forest",
+  "palette": "Forest black, moss green, copper, amber",
+  "focus": "Woodlands, fungi, birds, mammals",
+  "hero": "assets/decks/sylvan/cards/sylvan-04-emperor.webp",
+  "signature": "Sylvan, Emperor",
+  "note": "Concept gallery.",
+  "accent": "#5b6b2e",
+  "deck": "sylvan",
+  "status": "concept"
+ },
+ {
+  "slug": "ocean",
+  "name": "Ocean",
+  "palette": "Cobalt, reef coral, gold",
+  "focus": "Reef to open ocean biodiversity",
+  "hero": "assets/decks/ocean/cards/ocean-03-empress.webp",
+  "signature": "Corallia, Empress",
+  "note": "Separate creative direction.",
+  "accent": "#1f5f8b",
+  "deck": "ocean",
+  "status": "concept"
+ },
+ {
+  "slug": "abyss",
+  "name": "Abyss",
+  "palette": "Midnight blue, mineral white, sparse light",
+  "focus": "Deep sea vent and abyssal organisms",
+  "hero": "assets/decks/abyss/cards/abyss-02-high-priestess.webp",
+  "signature": "Ventara, High Priestess",
+  "note": "Vent and trench habitats.",
+  "accent": "#2b2f6b",
+  "deck": "abyss",
+  "status": "concept"
+ },
+ {
+  "slug": "mountain",
+  "name": "Mountain",
+  "palette": "Slate, lichen, alpine flower tones",
+  "focus": "Elevation, endurance, exposure",
+  "hero": "assets/decks/alpine/cards/alpine-09-hermit.webp",
+  "signature": "Altara, Hermit",
+  "note": "Concept gallery.",
+  "accent": "#4a5d6e",
+  "deck": "alpine",
+  "status": "concept"
+ },
+ {
+  "slug": "arctic",
+  "name": "Arctic",
+  "palette": "Pearl, silver, ice blue, pale gold",
+  "focus": "Sea ice, polar fauna, light and season",
+  "hero": "assets/decks/arctic/cards/arctic-02-high-priestess.webp",
+  "signature": "Nilas, High Priestess",
+  "note": "Pearl and silver gold card system.",
+  "accent": "#5b8fa8",
+  "deck": "arctic",
+  "status": "concept"
+ }
+]
